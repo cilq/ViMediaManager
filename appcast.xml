@@ -9,10 +9,10 @@
       <version>0.5b1</version>
       <title>Version 0.5b1 (0 bugs fixed; 0 new features)</title>
       <pubdate>Di, 09 Sept, 2011 12:00:00 +0100</pubdate>
-      <sparkle:releaseNotesLink>http://mariusth.channelwood.org/vimediamanager/updates/0.5.html</sparkle:releaseNotesLink>
-      <enclosure url="http://mariusth.channelwood.org/vimediamanager/downloads/vimediamanager-mac-0.5b1.dmg"  os="mac"      sparkle:version="0.5b1"   type="application/octet-stream" />
-      <enclosure url="http://mariusth.channelwood.org/vimediamanager/downloads/vimediamanager-0.5b1.zip"      os="linux"    sparkle:version="0.5b1"   type="application/octet-stream" />
-      <enclosure url="http://mariusth.channelwood.org/vimediamanager/downloads/vimediamanager-0.5b1.zip"      os="windows"  sparkle:version="0.5b1"   type="application/octet-stream" />
+      <sparkle:releaseNotesLink>http://vidalvanbergen.github.com/ViMediaManager/updates/0.5b1.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/downloads/vidalvanbergen/ViMediaManager/ViMediaManager-0.5b1.dmg"  os="mac"      sparkle:version="0.5b1"   type="application/octet-stream" />
+      <enclosure url=""      os="linux"    sparkle:version="0.5b1"   type="application/octet-stream" />
+      <enclosure url=""      os="windows"  sparkle:version="0.5b1"   type="application/octet-stream" />
     </item>
 
     <!--item>
