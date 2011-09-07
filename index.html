@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <!-- [if lte IE 6]><meta http-equiv="refresh" content="0; url=unsupported.html"><![endif]-->
 
-  <title>Home</title>
+  <title>ViMediaMessenger</title>
   <link rel="shortcut icon"     href="favicon.ico">
   <link rel="apple-touch-icon"  href="apple-touch-icon.png">
 
@@ -33,27 +33,103 @@
 </head>
 <body>
 
-  <a href="http://github.com/vimediamanager"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://a248.e.akamai.net/assets.github.com/img/e6bef7a091f5f3138b8cd40bc3e114258dd68ddf/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub"></a>
+  <!--a href="https://github.com/vidalvanbergen/ViMediaManager"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://a248.e.akamai.net/assets.github.com/img/e6bef7a091f5f3138b8cd40bc3e114258dd68ddf/687474703a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f7265645f6161303030302e706e67" alt="Fork me on GitHub"></a-->
 
   <header>
-    
+    <h1><a href="index.html">ViMediaManager</a></h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Download</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="help.html">Help</a></li>
+      </ul>
+    </nav>
   </header>
 
   <div id="main" role="main">
-    
+
+    <section class="product">
+      <div id="download">
+        <a href="https://github.com/downloads/vidalvanbergen/ViMediaManager/ViMediaManager-0.5b1.dmg">
+          <img src="img/vimediamanager.png" alt="ViMediaManager" height="128px"><br/>
+          Download ViMediaManager 0.5b1
+        </a>
+        <br/>
+        <a href="https://raw.github.com/vidalvanbergen/ViMediaManager/master/HISTORY.markdown">Release Notes</a><br/>
+        <a href="https://github.com/vidalvanbergen/ViMediaManager">Source</a>
+      </div>
+      
+      <hr/>
+      
+      <div id="requirements">
+        <h3>System Requirements:</h3>
+        <ul>
+          <li>
+            PowerPC or Intel based Mac<br/>
+            (Universal Binary)
+          </li>
+          <li>Mac OS X 10.4 or later</li>
+        </ul>
+      </div>
+      
+      <hr/>
+      
+      <div id="social">
+        Follow me <a href="http://twitter.com/ViMediaManager">@ViMediaManager</a>
+      </div>
+    </section>
+
+
+
+    <section class="content">
+      <div id="description">
+        <h2>ViMediaManager</h2>
+        <p>
+          ViMediaManager is my try at building a media manager mainly for Mac, since the Mac platform has been seriously lacking in this department.
+        </p>
+
+        <hr/>
+
+        <h3>Main Features:</h3>
+        <ul>
+          <li>Manage your movies, TV shows &amp; anime collections.</li>
+          <li>Download media metadata from <a href="http://www.themoviedb.org/" target="TMDB">TheMovieDB.org</a>, <a href="http://www.imdb.com/">IMDb.com</a>, <a href="http://thetvdb.com/" target="TVDB">TheTVDB.com</a> &amp; <a href="http://anidb.net" target="AniDB">AniDB.net</a>.</li>
+          <li>Get trailers, posters, fanart, banners, clearart, characterart, logo's and thumbnails for your movies and series from <a href="http://www.youtube.com/" target="YouTube">YouTube.com</a>, <a href="http://www.themoviedb.org/" target="TMDB">TheMovieDB.org</a>, <a href="http://thetvdb.com/" target="TVDB">TheTVDB.com</a> &amp; <a href="http://www.fanart.tv" target="FanartTV">Fanart.TV</a>.</li>
+          <li>Batch search for movies &amp; TV shows.</li>
+          <li>Batch folder renumber to match your movie and series titles.</li>
+          <li>It looks and runs natively on Mac OS X!</li>
+        </ul>
+      </div>
+
+      <div id="screenshots">
+        <!--img src="" alt=""-->
+      </div>
+
+    </section>
+
   </div>
 
   <footer>
-    
+    <p class="donate">
+      <img src="img/vimediamanager.png" alt="ViMediaManager" height="42px">
+      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vidal%2evanbergen%40gmail%2ecom&lc=NL&item_name=Vitalis%20Software&item_number=Donation&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="donate">Donate to ViMediaMessenger</a>
+    </p>
+    <p class="sosume">
+      &copy; Copyright 2011 Vidal van Bergen.<br/>
+      All Rights Reserved.
+    </p>
+    <p class="host">
+      Hosted on <a href="http://github.com" target="github"><img src="img/github.png" height="42px" alt="Github.com" title="Github.com"></a>
+    </p>
   </footer>
 
   <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="js/libs/jquery.js"><\/script>')</script>
-  
+
   <script defer src="js/plugins.js"></script>
   <script defer src="js/script.js"></script>
-  
+
   <!-- Change UA-XXXXX-X to be your site's ID -->
   <script>
     window._gaq = [['_setAccount','UA-25558581-1'],['_trackPageview'],['_trackPageLoadTime']];
