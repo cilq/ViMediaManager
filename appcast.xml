@@ -8,7 +8,7 @@
     <item>
       <version>0.5b3</version>
       <title>Version 0.5b3 (4 bugs fixed)</title>
-      <pubdate>Mo, 13 Sept, 2011 13:50:00 +0100</pubdate>
+      <pubdate>Tue, 13 Sept, 2011 13:50:00 +0100</pubdate>
       <sparkle:releaseNotesLink>http://vidalvanbergen.github.com/ViMediaManager/updates/0.5.html</sparkle:releaseNotesLink>
       <enclosure url="http://cloud.github.com/downloads/vidalvanbergen/ViMediaManager/ViMediaManager-0.5b3.dmg"  os="mac"      sparkle:version="0.5b3"   type="application/octet-stream" />
       <enclosure url=""      os="linux"    sparkle:version="0.5b3"   type="application/octet-stream" />
