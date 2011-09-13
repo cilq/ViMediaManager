@@ -6,13 +6,13 @@
     <description>Visit http://mariusth.channelwood.org/vimediamanager for further information</description>
 
     <item>
-      <version>0.5b2</version>
-      <title>Version 0.5b2 (1 bugs fixed; 2 new features)</title>
-      <pubdate>Mo, 12 Sept, 2011 22:55:00 +0100</pubdate>
+      <version>0.5b3</version>
+      <title>Version 0.5b3 (4 bugs fixed)</title>
+      <pubdate>Mo, 13 Sept, 2011 13:50:00 +0100</pubdate>
       <sparkle:releaseNotesLink>http://vidalvanbergen.github.com/ViMediaManager/updates/0.5.html</sparkle:releaseNotesLink>
-      <enclosure url="http://cloud.github.com/downloads/vidalvanbergen/ViMediaManager/ViMediaManager-0.5b2.dmg"  os="mac"      sparkle:version="0.5b2"   type="application/octet-stream" />
-      <enclosure url=""      os="linux"    sparkle:version="0.5b2"   type="application/octet-stream" />
-      <enclosure url=""      os="windows"  sparkle:version="0.5b2"   type="application/octet-stream" />
+      <enclosure url="http://cloud.github.com/downloads/vidalvanbergen/ViMediaManager/ViMediaManager-0.5b3.dmg"  os="mac"      sparkle:version="0.5b3"   type="application/octet-stream" />
+      <enclosure url=""      os="linux"    sparkle:version="0.5b3"   type="application/octet-stream" />
+      <enclosure url=""      os="windows"  sparkle:version="0.5b3"   type="application/octet-stream" />
     </item>
 
     <!--item>
