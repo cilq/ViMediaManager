@@ -22,11 +22,6 @@
  *
  *   ==================================================================
  */
-@font-face {
-  font-family: "Pictos";
-  src: url('../fonts/pictos/pictos-web.eot');
-  src: url('../fonts/pictos/pictos-web.eot?iefix') format('eot'), url('../fonts/pictos/pictos-web.ttf') format('truetype'), url('../fonts/pictos/pictos-web.woff') format('woff'), url('../fonts/pictos/pictos-web.svg') format('svg'), url('../fonts/pictos/pictos-web.dfont') format('dfont'); }
-
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
   display: block; }
 
